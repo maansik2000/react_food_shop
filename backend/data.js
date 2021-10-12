@@ -1,0 +1,88 @@
+const data = [
+  {
+    key: 1,
+    name: "Green salad with fresh bacon",
+    img: "https://www.seekpng.com/png/detail/24-244345_salad-png-photo-caesar-salad-png.png",
+    rating: 4.5,
+    price: 5,
+  },
+  {
+    key: 2,
+    name: "Green caesar salad with fresh lettus",
+    img: "https://www.nicepng.com/png/detail/35-350469_caesar-salad.png",
+    rating: 3,
+    price: 8,
+  },
+  {
+    key: 3,
+    name: "Green salad with fresh bacon and avacado and beef",
+    img: "https://www.seekpng.com/png/detail/24-244345_salad-png-photo-caesar-salad-png.png",
+    rating: 4.5,
+    price: 5,
+  },
+  {
+    key: 4,
+    name: "Green salad with fresh lettus and cabbage",
+    img: "https://www.pngitem.com/pimgs/m/397-3970717_caesar-salad-png-chicken-caesar-salad-png-transparent.png",
+    rating: 3,
+    price: 12,
+  },
+  {
+    key: 5,
+    name: "salmon salad with olive ",
+    img: "https://www.nicepng.com/png/detail/35-350469_caesar-salad.png",
+    rating: 4.8,
+    price: 9,
+  },
+  {
+    key: 6,
+    name: "classic caesar salad ensalada-cesar",
+    img: "https://www.nicepng.com/png/detail/37-370413_classic-caesar-salad-ensalada-cesar-fosters-hollywood.png",
+    rating: 3,
+    price: 8,
+  },
+  {
+    key: 7,
+    name: "grilled chicken with beans",
+    img: "https://media.istockphoto.com/photos/caesar-salad-with-grilled-chicken-and-croutons-of-bread-picture-id1211166166?k=20&m=1211166166&s=170667a&w=0&h=Mz4oWxiPMaMdKCbO-39oUf-VicI6JoQmnlahhELsK8Q=",
+    rating: 5,
+    price: 15,
+  },
+  {
+    key: 8,
+    name: "fresh salmon salad with chicken and mayonee",
+    img: "https://www.seekpng.com/png/detail/315-3158628_caesar-salad.png",
+    rating: 3.5,
+    price: 9,
+  },
+  {
+    key: 9,
+    name: "Chicken bacon avocado and fish ",
+    img: "https://www.kindpng.com/picc/m/368-3683534_chicken-bacon-avocado-salad-del-taco-hd-png.png",
+    rating: 3.9,
+    price: 12,
+  },
+  {
+    key: 10,
+    name: "Green salad with fresh leaves and herbs",
+    img: "https://www.seekpng.com/png/detail/24-244345_salad-png-photo-caesar-salad-png.png",
+    rating: 4.5,
+    price: 5,
+  },
+  {
+    key: 11,
+    name: "Green salad with fresh cloves and oil",
+    img: "https://www.seekpng.com/png/detail/24-244345_salad-png-photo-caesar-salad-png.png",
+    rating: 4.5,
+    price: 5,
+  },
+  {
+    key: 12,
+    name: "Green salad with fresh don't know",
+    img: "https://www.seekpng.com/png/detail/24-244345_salad-png-photo-caesar-salad-png.png",
+    rating: 4.5,
+    price: 5,
+  },
+];
+
+export default data;

@@ -1,0 +1,299 @@
+@media screen and (max-width: 1080px) {
+  .navlinks {
+    width: 60%;
+  }
+  .FishImage {
+    width: 500px;
+    top: -40px;
+  }
+  .headerpage {
+    h1 {
+      font-size: 40px;
+    }
+    p {
+      font-size: 12px;
+    }
+  }
+  .FirstSection {
+    padding: 20px 40px;
+  }
+  .popularSection {
+    padding: 70px 50px;
+  }
+  .dishRating {
+    h5 {
+      font-size: 14px;
+    }
+  }
+  .DishImage {
+    img {
+      width: 80px;
+    }
+  }
+
+  .aboutUsHeading {
+    div {
+      h1 {
+        font-size: 32px;
+      }
+      p {
+        width: 100%;
+        font-size: 13px;
+      }
+    }
+  }
+}
+
+@media screen and (max-width: 920px) {
+  body {
+    padding: 0;
+  }
+  .headerpage {
+    display: block;
+    margin-top: 0;
+    height: 100%;
+  }
+
+  .headerContent {
+    display: flex;
+    margin: 0;
+    padding-top: 50px;
+    margin: 0;
+    width: 100%;
+    text-align: center;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    h1 {
+      font-size: 35px;
+    }
+    p {
+      font-size: 12px;
+    }
+    div {
+      display: flex;
+      justify-content: center;
+      flex-direction: column;
+      align-items: center;
+    }
+    .FirstSection {
+      padding: 20px 30px;
+    }
+  }
+
+  .FishLogo {
+    width: 100%;
+
+    .FishImage {
+      margin: auto 0;
+      width: 500px;
+    }
+  }
+  .dishRating {
+    h5 {
+      font-size: 16px;
+    }
+  }
+  .DishImage {
+    img {
+      width: 90px;
+    }
+  }
+  .aboutUsHeading {
+    div {
+      margin-top: 40px;
+      h1 {
+        font-size: 38px;
+      }
+      p {
+        width: 100%;
+        font-size: 10px;
+      }
+    }
+  }
+  .myCarousel {
+    padding: 50px 10px !important;
+  }
+}
+
+@media screen and (max-width: 600px) {
+  .navlinks {
+    display: none;
+  }
+  .hamburgerIcon,
+  .headerpage {
+    display: block;
+  }
+  .headerpage {
+    h1 {
+      font-size: 40px;
+    }
+    p {
+      font-size: 12px;
+      width: 100%;
+    }
+  }
+  .FishLogo {
+    .FishImage {
+      margin: auto 0;
+      width: 300px;
+    }
+  }
+  .FirstSection {
+    padding: 20px 20px;
+  }
+  .popularSection {
+    padding: 70px 40px;
+  }
+  .popularTitle {
+    h1 {
+      font-size: 38px;
+    }
+    p {
+      font-size: 12px;
+    }
+  }
+  .ImageBlock {
+    display: block;
+  }
+  .aboutUsHeading {
+    div {
+      text-align: center;
+      padding: 0 16px;
+      h1 {
+        font-size: 38px;
+      }
+      p {
+        width: 100%;
+        font-size: 12px;
+      }
+      .Btns {
+        display: flex;
+        justify-content: center;
+      }
+    }
+  }
+  .footerheading {
+    padding: 70px 80px;
+    margin: auto;
+    div {
+      h1 {
+        color: #f85514;
+      }
+      div h6 {
+        color: #aaaaaa;
+        font-size: 12px;
+      }
+    }
+  }
+  .SubscribeSection {
+    background-color: #ffffff;
+    padding: 30px;
+  }
+  .menuSection {
+    background-color: white;
+    padding: 40px 20px;
+  }
+}
+
+@media screen and (max-width: 580px) {
+  .navlinks {
+    display: none;
+  }
+  .hamburgerIcon,
+  .headerpage {
+    display: block;
+  }
+  .headerpage {
+    h1 {
+      font-size: 28px;
+    }
+    p {
+      font-size: 12px;
+    }
+    button {
+      margin-top: 8px;
+      padding: 8px 20px;
+      font-size: 12px;
+    }
+  }
+  .FishLogo {
+    .FishImage {
+      margin: auto 0;
+      width: 280px !important;
+    }
+  }
+  .FirstSection {
+    padding: 15px;
+  }
+  .popularSection {
+    padding: 50px 20px;
+  }
+  .popularTitle {
+    h1 {
+      font-size: 28px;
+    }
+    p {
+      font-size: 12px;
+    }
+  }
+  .dishRating {
+    h5 {
+      font-size: 13px;
+    }
+    span i {
+      font-size: 12px;
+    }
+  }
+  .addtocart {
+    padding: 6px 8px;
+    font-size: 8px;
+    border-radius: 16px;
+  }
+  .DishImage {
+    img {
+      width: 60px;
+    }
+  }
+  .dishPrice {
+    h6 {
+      font-size: 20px;
+    }
+  }
+  .aboutUsHeading {
+    div {
+      h1 {
+        font-size: 26px;
+      }
+      p {
+        text-align: center;
+        padding: 0 18px;
+        font-size: 12px;
+      }
+    }
+  }
+  .AboutSection {
+    padding: 70px 0;
+  }
+  .logo-Image {
+    width: 120px !important;
+  }
+  .footerheading {
+    padding: 30px;
+    margin: auto;
+    div {
+      h1 {
+        color: #f85514;
+      }
+      div h6 {
+        color: #aaaaaa;
+        font-size: 10px;
+      }
+    }
+  }
+  .SubscribeSection {
+    .imgUrl {
+      height: 100px !important;
+    }
+  }
+}

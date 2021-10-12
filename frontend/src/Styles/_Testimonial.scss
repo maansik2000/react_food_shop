@@ -1,0 +1,26 @@
+.Testimonial {
+  background-color: #ffffff;
+  padding-top: 50px;
+  .myCarousel {
+    padding: 80px;
+  }
+  .testimonial-heading {
+    text-align: center;
+  }
+}
+
+.TestimonialCard {
+  padding: 18px 20px;
+  border-radius: 14px;
+ 
+}
+
+.testimonial-image {
+  width: 70px !important;
+  border-radius: 80px;
+}
+
+.testimonial-name {
+  margin-top: 20px;
+  text-align: left;
+}
